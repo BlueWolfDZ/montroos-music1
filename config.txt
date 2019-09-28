@@ -1,6 +1,6 @@
-token=NjExNjA3ODg4Mjk2ODA0NDYy.XYfbKA.9b37YErjyjoR48wdwazBb2pwkv4
-owner=503672788196917267
-prefix=1
-game=type 1help
+token=NjIzMjM2MjcyNjM0MjAwMDkz.XY94LA.c05rSE9-bGDOdwC3UpdIm9jjjik
+owner=441584713799303183
+prefix=B
+game=Blue.
 stayinchannel=true
 songinstatus=false
